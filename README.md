@@ -32,12 +32,12 @@ I looked at the following features some where extended to cover several periods 
 - *Day in week: to exploit the potential cyclical nature of the puchase behavior eg week-ends 
 - *Day in month: same but at day in month level, maybe people spend less at the end of the month when their salary is spent 
 - *Month in year: to try and capture seasonals trend such New year 
-- *Store:*   
-- *Product type:* 
-- *Moving average:* 
-- *Standard deviation:* 
-- *Min sales within x days:* 
-- *Max sales within x days:*
+- *Store:* we may observe some difference by store in sales   
+- *Product type:* some product may sell more or less according to the situation (day in week, month, store)
+- *Moving average:*  reasonable estimator of the sales trend
+- *Standard deviation:* tell us how far down or up a sale could be
+- *Min sales within x days:* boundaries for sale may give us some information of where the sale could be
+- *Max sales within x days:* same as above
 
  I wish I had added a few more such as product turnover rate or daily difference rate which have some information useful for inventories and cashflow management.
 
