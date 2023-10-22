@@ -81,7 +81,7 @@ The architecture should include
 - data validation
 - feature building
 - prediction by production model
-- result monitoring (both output for customer and model drif)
+- result monitoring (both output for customer and model drift)
 - scalability
 
 For more details:
