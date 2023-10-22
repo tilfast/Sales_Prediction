@@ -13,7 +13,7 @@ Time pending, it would be worth doublechecking whether there is an overfit as th
 
 ![ROC](https://github.com/tilfast/Sales_Prediction/assets/6140149/ad409cf4-38d7-41d7-9ed9-a85ca7e3ab9e)
 
-This opportunity to gain good classification nailed, I went for a regression of the products that were expected to sell the next day. The RMSLE for these was much better once the zero sales were taken away. 
+This opportunity to gain good classification nailed (Sales/No Sale), I went for a regression of the products that were expected to sell the next day. The RMSLE for these was much better once the zero sales were taken away. 
 
 Combining both models gave us a result that beat the naive model.  
 
